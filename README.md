@@ -66,8 +66,8 @@ We also provide the MATLAB scripts to compute the average PSNR and SSIM values r
 
 Run shell scripts to train the models:
 ```bash
-bash train_PReNet.sh      
-bash train_PReNet_r.sh    
+bash train_MPNet.sh      
+bash train_MPNet_r.sh    
 
 ```
 You can use `tensorboard --logdir ./logs/your_model_path` to check the training procedures. 
