@@ -10,13 +10,11 @@
 
 MPNet are evaluated on four datasets*: 
 Rain100H [1], Rain100L [1], Rain12 [2] and Rain1400 [3]. 
-Please download the testing datasets from [BaiduYun](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg)
-or [OneDrive](https://1drv.ms/f/s!AqLfQqtZ6GwGgep-hgjLxkov2SSZ3g), 
+Please download the testing datasets from [BaiduYun](https://pan.baidu.com/s/10jktsCbnk_QOjliW1fyDnw)
 and place the unzipped folders into `./datasets/test/`.
 
 To train the models, please download training datasets: 
-RainTrainH [1], RainTrainL [1] and Rain12600 [3] from [BaiduYun](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg)
-or [OneDrive](https://1drv.ms/f/s!AqLfQqtZ6GwGgep-hgjLxkov2SSZ3g), 
+RainTrainH [1], RainTrainL [1] and Rain12600 [3] from [BaiduYun](https://pan.baidu.com/s/10jktsCbnk_QOjliW1fyDnw)
 and place the unzipped folders into `./datasets/train/`. 
 
 *_We note that:_
@@ -25,7 +23,7 @@ _(i) The datasets in the website of [1] seem to be modified.
     But the models and results in recent papers are all based on the previous version, 
     and thus we upload the original training and testing datasets 
     to [BaiduYun](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg) 
-    and [OneDrive](https://1drv.ms/f/s!AqLfQqtZ6GwGgep-hgjLxkov2SSZ3g)._ 
+   ._ 
 
 _(ii) For RainTrainH, we strictly exclude 546 rainy images that have the same background contents with testing images.
     All our models are trained on remaining 1,254 training samples._
