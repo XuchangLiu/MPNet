@@ -22,7 +22,7 @@ and place the unzipped folders into `./datasets/train/`.
 _(i) The datasets in the website of [1] seem to be modified. 
     But the models and results in recent papers are all based on the previous version, 
     and thus we upload the original training and testing datasets 
-    to [BaiduYun](https://pan.baidu.com/s/1J0q6Mrno9aMCsaWZUtmbkg) 
+    to [BaiduYun](https://pan.baidu.com/s/10jktsCbnk_QOjliW1fyDnw)
    ._ 
 
 _(ii) For RainTrainH, we strictly exclude 546 rainy images that have the same background contents with testing images.
